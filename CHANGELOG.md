@@ -8,7 +8,7 @@
 
 ### Improved
 - Enhanced the bridging screen with support for [DAI, USDD, USDT, USDC] tokens.
-- Fixed minor issue in bridging.
+- Fixed minor issues in bridging.
 
 ## [1.0.0] - March 24, 2024
 
